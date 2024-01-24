@@ -36,17 +36,18 @@
 
 ### My stats
 ![](https://komarev.com/ghpvc/?username=vadimcola&color=3f3fff&style=for-the-badge)
+
+
 <p align="center">
   <a href="https://github.com/vadimcola">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vadimcola&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vadimcola&theme=discord_old_blurple" />
   </a>
   <a href="https://github.com/vadimcola">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vadimcola&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vadimcola&hide_border=true&card_width=338&theme=discord_old_blurple" />
   </a>
   <a href="https://github.com/vadimcola">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vadimcola&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vadimcola&theme=discord_old_blurple" />
   </a>
-
 </p>
 
 <!--
